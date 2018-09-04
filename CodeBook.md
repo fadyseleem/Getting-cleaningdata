@@ -1,4 +1,4 @@
-#Identifiers
+# Identifiers
 
 
 subject - The ID of the test subject
@@ -8,7 +8,7 @@ activity - The type of activity performed when the corresponding measurements we
 
 
 
-#Activities
+# Activities
 
 
 WALKING (value 1): subject was walking during the test
@@ -30,7 +30,7 @@ LAYING (value 6): subject was laying down during the test
 
 
 
-#Variables
+# Variables
 
 
 tBodyAccmeanX
